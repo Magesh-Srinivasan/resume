@@ -1,0 +1,13 @@
+- company: Infosys, Client – Cisco Systems
+  roles: 
+    - role: Technology Analyst
+      date: "07.2019 - Present"
+      details: "Single-handedly integrated the newly enabled organizations in Oracle Applications for South Korea and BroadSoft Inc with ONESOURCE Indirect Tax Engine and customized the tax logic according to the business requirements. Built a custom reporting engine using Java to generate excel reports easily and with better performance. Developed a desktop/web application using Angular and Node.JS to automate the process of unit testing PL/SQL code and AR Transactions leading to improved code quality, faster development time, better unit test coverage, and reduced manual effort."
+    
+    - role: Senior System Engineer
+      date: "07.2018 - 06.2019"
+      details: "Developed an application entirely from scratch to comply with the Hungary government's requirement to report invoices through an electronic channel, thereby eliminating the need for expensive third-party solutions. Single-handedly integrated a newly enabled organization in Oracle Applications for Germany with ONESOURCE Indirect Tax Engine and customized the tax logic according to the business requirements."
+
+    - role: System Engineer
+      date: "05.2016 - 06.2018"
+      details: "Enhancement of existing taxation logic and reports. Improved performance of various programs by up to 50 to 75%. Automation of tax holds release process leading to the elimination of around 80% of manual effort and reducing the time taken for invoicing."

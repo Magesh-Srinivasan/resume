@@ -1,0 +1,14 @@
+<div class="section">
+    <h1 class="section-title">{{ .Site.Params.title_as.awards }}</h1>
+        {{ range .Site.Data.features.awards }}
+        <div class="item">
+            {{ .name }}
+            {{ range .links }}
+                {{ if . }}<a href="{{ . }}">
+                    {{ if $.Site.Params.useFontAwesome }}<i class="fas fa-link"></i>
+                    {{else}}&#128279;{{ end }}</a>
+                {{ end }}
+            {{ end }}
+    </div>
+        {{ end }}
+</div>

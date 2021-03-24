@@ -1,0 +1,9 @@
+- name: "Bachelor of Engineering (BE) - Mechanical Engineering"
+  university: "SSN College of Engineering, Kalavakkam, Chennai – Anna University"
+  date: "2013- 2016"
+  gpa: "8.27 / 10.00"
+
+- name: "Diploma in Mechanical Engineering (DME)"
+  university: "Rajagopal Polytechnic College, Gudiyattam"
+  date: "2010 - 2013"
+  gpa : "96.38 / 100.00"

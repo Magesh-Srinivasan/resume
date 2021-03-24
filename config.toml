@@ -1,0 +1,57 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Resume | Magesh Srinivasan"
+disableKinds = ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
+
+[params]
+useFontAwesome = true
+
+[params.display]
+experience = true
+education = true
+languages = true
+awards = true
+skills = false
+skills_grouped = true
+interests = true
+contact = true
+linkedin = false
+tagline = true
+aboutMe = true
+projects = false
+publications = false
+certificates = false
+avatar = false
+
+[params.title_as]
+experience = "Experience"
+education = "Education"
+languages = "Languages"
+awards = "Awards & Appreciations"
+skills = "Skills"
+certificates = "Certifications"
+interests = "Interests"
+about_me = "About Me"
+publications = "Publication"
+projects = "Projects"
+
+[params.display.footer]
+footer = true
+links = true
+# credits = true
+
+[params.footer]
+footnote = "You can print this resume in A4 size or save as pdf. | Last update on 23.03.2021."
+
+# [params.footer.links]
+# [[params.footer.links.link]]
+# prefix = "Contact me on"
+# name = "Linkedin"
+# url = "https://linkedin.com/in/mertbakir/"
+# icon = "fab fa-linkedin"
+
+# [[params.footer.links.link]]
+# prefix = "Check out my"
+# name = "Website"
+# url = "https://mertbakir.gitlab.io/about/"
+# icon = "fas fa-globe"

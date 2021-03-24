@@ -1,0 +1,56 @@
+skills:
+  - "Python - R - SQL"
+  - "InfluxDB/TICK Stack"
+  - "Grafana - PowerBI"
+  - "Excel - Minitab - SPSS"
+  - "GAMS - OR-Tools - IBM CPLEX"
+  - "C# - Git - Docker - NGINX"
+
+skillsGrouped:
+  - groupName: "Programming"
+    skills: ["PL/SQL, SQL, Java, Python, C#, PHP, HTML, JavaScript, CSS, Angular, Node.JS"]
+ 
+  - groupName: "Tools"
+    skills: ["Toad for Oracle, SQL Developer, Oracle Application Framework (OAF), J-Developer, Business Intelligence (BI) Publisher, GIT, Eclipse, Blender, Android Studio"]
+
+  - groupName: "Platforms"
+    skills: ["Windows, Unix, Android"]
+
+interests:
+  - "Automation"
+  - "Web Applications"
+  - "Optimization of Programs"
+
+languages:
+  - name: "Tamil"
+    level: "Native"
+
+  - name: "English"
+    level: "Professional"
+    # certificates: ["YDS: 86.25 - 2018", "TOEFL: 109 - 2021"]
+
+awards:
+  - name: "Received Insta Award for Sabrix reprocessing"
+    links: ["/Infosys%20Insta%20Award.png"]
+  - name: "Received many appreciations from Client as well as Management."
+    links: ["/certificate-magesrin-5f364ea1c66a6f00015e64c5.pdf", "/certificate-magesrin-5fb6649d4edfe000010b38f0.pdf", "gracias_from_deepika_arul.pdf", "gracias_from_gayathri.pdf"]
+
+certificates:
+  - name: "Supervised Learning: Regression"
+    date: "2020"
+    issued_by: "Coursera"
+    link: "https://xkcd.com/605/"
+
+  - name: "Supervised Learning: Classification"
+    date: "2020"
+    issued_by: "Coursera"
+    link: "https://xkcd.com/388/"
+
+
+about:
+  - name: "Magesh Srinivasan"
+    tagline: "Technology Analyst"
+    phone: "9677566398"
+    linkedin: "/in/mertbakir"
+    email: "magesh4307@gmail.com"
+    details: "I am a passionate software engineer with nearly five years of working experience in Application Development & Enhancement in Oracle Applications - Financials domain. I have insightful knowledge of Oracle E-Bussiness Tax and Account Receivable Modules and ONESOURCE Indirect Tax Engine (Previously Sabrix). I am a fast learner and can come with a perfect solution for any requirement however impossible they might seem."
