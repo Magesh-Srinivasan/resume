@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://magesh-srinivasan.github.io/resume/"
 languageCode = "en-us"
 title = "Resume | Magesh Srinivasan"
 disableKinds = ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]

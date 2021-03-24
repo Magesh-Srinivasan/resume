@@ -31,9 +31,9 @@ languages:
 
 awards:
   - name: "Received Insta Award for Sabrix reprocessing"
-    links: ["/Infosys%20Insta%20Award.png"]
+    links: ["/appreciations/Infosys Insta Award.png"]
   - name: "Received many appreciations from Client as well as Management."
-    links: ["/certificate-magesrin-5f364ea1c66a6f00015e64c5.pdf", "/certificate-magesrin-5fb6649d4edfe000010b38f0.pdf", "gracias_from_deepika_arul.pdf", "gracias_from_gayathri.pdf"]
+    links: ["/appreciations/certificate-magesrin-5f364ea1c66a6f00015e64c5.pdf", "/appreciations/certificate-magesrin-5fb6649d4edfe000010b38f0.pdf", "appreciations/gracias_from_deepika_arul.pdf", "appreciations/gracias_from_gayathri.pdf"]
 
 certificates:
   - name: "Supervised Learning: Regression"
