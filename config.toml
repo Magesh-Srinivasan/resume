@@ -41,7 +41,7 @@ links = true
 # credits = true
 
 [params.footer]
-footnote = "You can print this resume in A4 size or save as pdf. | Last update on 23.03.2021."
+footnote = "You can print this resume in A4 size or save as pdf. | Last update on 11.04.2021."
 
 # [params.footer.links]
 # [[params.footer.links.link]]
